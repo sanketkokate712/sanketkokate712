@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="left">Hello ! My name is Sanket and I'm pursuing CS . Interested in Full Stack , DSA , AI&ML and Cybersecurity. Lets collaborate sometimes..</h2>
+<h2 align="left">Hello ! My name is Sanket and I'm pursuing CS .Lets collaborate sometimes..</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.redd.it/ayi0xce9yb7a1.gif"  />
+<img align="right" height="150" src="https://share.google/6STYewt8JLBFDl2ED"  />
 
 ###
 
