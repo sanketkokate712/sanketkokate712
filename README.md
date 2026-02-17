@@ -1,4 +1,3 @@
-
 <h2 align="left">Hello ! My name is Sanket and I'm pursuing CS .Lets collaborate sometimes..</h2>
 
 ###
@@ -8,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://share.google/6STYewt8JLBFDl2ED"  />
+<img align="right" height="150" src="https://share.google/6STYewt8JLBFDl2ED](https://clipart-library.com/image_gallery/n1582570.gif"  />
 
 ###
 
