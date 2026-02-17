@@ -1,4 +1,4 @@
-<h2 align="left">Hello ! My name is Sanket and I'm pursuing CS .Lets collaborate sometimes..</h2>
+<h2 align="left">Hello! My name is Sanket and I'm pursuing CS,Lets collaborate sometimes...</h2>
 
 ###
 
