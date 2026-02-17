@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://share.google/6STYewt8JLBFDl2ED](https://clipart-library.com/image_gallery/n1582570.gif"  />
+<img align="right" height="150" src="https://clipart-library.com/image_gallery/n1582570.gif"  />
 
 ###
 
