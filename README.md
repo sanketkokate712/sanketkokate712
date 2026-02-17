@@ -32,6 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="kali linux logo"  />
+   <img width="12" />
+  <img src=" <img width="12" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="kali linux logo"  />" height="30" alt="kali linux logo"  />
 </div>
 
 ###
