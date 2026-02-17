@@ -33,8 +33,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="kali linux logo"  />
    <img width="12" />
-  <img src=" <img width="12" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="raspbari"  />" height="30" alt="kali linux logo"  />
+
 </div>
 
 ###
