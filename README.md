@@ -1,16 +1,10 @@
 <h2 align="left">Hello ! My name is Sanket and I'm pursuing CS .Lets collaborate sometimes..</h2>
-
 ###
-
 <div align="center">
 </div>
-
 ###
-
 <img align="right" height="150" src="https://clipart-library.com/image_gallery/n1582570.gif"  />
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
@@ -32,11 +26,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="kali linux logo"  />
    <img width="12" />
-
 </div>
-
 ###
-
 <div align="left">
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
