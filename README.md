@@ -34,23 +34,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="30" alt="kali linux logo"  />
-   <img width="12" />
+
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HERE/" target="_blank">
+  <a href="https://www.instagram.com/sanketkokate7120" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/YOUR_DISCORD_HERE" target="_blank">
+  <a href="https://discord.gg/sanketkokate" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/sanketkokate" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_HERE" target="_blank">
+  <a href="https://github.com/sanketkokate712" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
 </div>
