@@ -1,34 +1,26 @@
-Hi there, I'm Sanket Kokate. 👋
+<h1 align="center">Hi there, I'm SANKET KOKATE 👋</h1>
 
-About Me:
+**user@github:~$ ./profile.sh**
+> "Merging logic with creativity in AI and Web Development."
 
-🔭 I’m currently working on Full Stack Web Projects and Machine Learning models
+**[ About Me ]**
+* 🔭 **Executing:** Full Stack Web Projects && Machine Learning models
+* 🌱 **Compiling:** Advanced AI && Backend Architectures
+* 👯 **Forking:** Opportunities to collaborate on AI-integrated Web Apps
+* 🤝 **Debugging:** Deep Learning && Backend Development
+* 💬 **Echo:** Ask me about Full Stack Web Dev, C++, and AI/ML
+* 📫 **Ping:** [sanketkokate.vercel.app](https://sanketkokate.vercel.app)
+* ⚡ **Easter Egg:** I never say no to a hackathon or a jam session on my guitar.
 
-🌱 I’m currently learning Advanced AI and Backend Architectures
+**[ Network Connections ]**
+* 💼 [LinkedIn](https://www.linkedin.com/in/sanket-kokate-150b20282/)
+* 🐦 [X (Twitter)](https://x.com/Sanketkok712)
+* 🌐 [Portfolio](https://sanketkokate.vercel.app)
 
-👯 I’m looking to collaborate on AI-integrated Web Applications
-
-🤝 I’m looking for help with Deep Learning and Backend Development
-
-💬 Ask me about Full Stack Web Development, C++, and AI/ML
-
-📫 How to reach me through my portfolio: sanketkokate.vercel.app
-
-⚡ Fun fact I never say no to a hackathon or a jam session on my guitar
-
-Connect with me:
-
-[Portfolio](https://sanketkokate.vercel.app) | [LinkedIn](https://www.linkedin.com/in/sanket-kokate-150b20282/) | [Twitter / X](https://x.com/Sanketkok712)
-
-Languages and Tools:
-
-* **Web Development:** React, Spring, Node.js, JavaScript
-* **AI & ML:** Python, YOLOv8, Computer Vision
-* **Core:** C++, Java, Linux
-
-GitHub Stats:
-
-<!-- Replace 'your-username' with your actual GitHub username -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketkokate712&show_icons=true&theme=transparent" alt="Sanket's GitHub stats" />
-</p>
+**[ Tech Stack.json ]**
+```json
+{
+  "Web_Development": ["React", "Spring", "Node.js", "JavaScript"],
+  "AI_and_ML": ["Python", "YOLOv8", "Computer Vision"],
+  "Core_Systems": ["C++", "Java", "Linux"]
+}
