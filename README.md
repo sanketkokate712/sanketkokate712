@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm SANKokate 👋</h1>
+<h1 align="center">Hi there, I'm Sanket </h1>
 
 **user@github:~$ ./profile.sh**
 > "Merging logic with creativity in AI and Web Development."
