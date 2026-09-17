@@ -4,10 +4,10 @@
 > "Merging logic with creativity in AI and Web Development."
 
 **[ About Me ]**
-* 🔭 **Executing:** Full Stack Web Projects && Machine Learning models
+* 🔭 **Executing:** Full Stack Web Projects & Machine Learning models
 * 🌱 **Compiling:** Advanced AI && Backend Architectures
 * 👯 **Forking:** Opportunities to collaborate on AI-integrated Web Apps
-* 🤝 **Debugging:** Deep Learning && Backend Development
+* 🤝 **Debugging:** Deep Learning & Backend Development
 * 💬 **Echo:** Ask me about Full Stack Web Dev, C++, and AI/ML
 * 📫 **Ping:** [sanketkokate.vercel.app](https://sanketkokate.vercel.app)
 * ⚡ **Easter Egg:** I never say no to a hackathon or a jam session on my guitar.
