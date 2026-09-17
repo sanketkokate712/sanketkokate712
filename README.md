@@ -5,7 +5,7 @@
 
 **[ About Me ]**
 * 🔭 **Executing:** Full Stack Web Projects & Machine Learning models
-* 🌱 **Compiling:** Advanced AI && Backend Architectures
+* 🌱 **Compiling:** Advanced AI & Backend Architectures
 * 👯 **Forking:** Opportunities to collaborate on AI-integrated Web Apps
 * 🤝 **Debugging:** Deep Learning & Backend Development
 * 💬 **Echo:** Ask me about Full Stack Web Dev, C++, and AI/ML
