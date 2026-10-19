@@ -10,7 +10,7 @@
 * 🤝 **Debugging:** Deep Learning & Backend Development
 * 💬 **Echo:** Ask me about Full Stack Web Dev, C++, and AI/ML
 * 📫 **Ping:** [sanketkokate.vercel.app](https://sanketkokate.vercel.app)
-* ⚡ **Easter Egg:** I never say no to a hackathon or a jam session on my guitar.
+* ⚡ **Easter Egg:** I never say no to a hackathon,jam session,rubix cube algos and a chess game .
 
 **[ Network Connections ]**
 * 💼 [LinkedIn](https://www.linkedin.com/in/sanket-kokate-150b20282/)
